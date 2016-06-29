@@ -337,6 +337,7 @@ DEPENDENCIES
   rb-fsevent
   rb-inotify
   rspec-rails
+  sass-rails (~> 5.0)
   sassc-rails
   selenium-webdriver
   simple_form
